@@ -1,0 +1,34 @@
+[
+    {
+        "id": "demo-nginx-bp",
+        "name": "Demo-Niginx",
+        "description": "This blueprint creates Nginx Server\n",
+        #"html_url": "https://github.com/cloudify-community/cloudify-catalog/tree/6.4.0-build/tabs/getting_started/ssh_cert",
+        #"zip_url": "https://repository.cloudifysource.org/cloudify/blueprints/6.4/tabs/getting_started/gen-ssh-cert-service-component.zip",
+        #"readme_url": "https://raw.githubusercontent.com/cloudify-community/cloudify-catalog/6.4.0-build/tabs/getting_started/ssh_cert/README.md",
+        #"main_blueprint": "blueprint.yaml",
+        #"image_url": "https://raw.githubusercontent.com/cloudify-community/cloudify-catalog/6.4.0-build/tabs/getting_started/ssh_cert/logo.png",
+        #"crated_at": "2023-03-16T00:26:08Z",
+        #"updated_at": "2023-03-16T00:26:08Z"
+        "html_url": "https://github.com/aravind1709/test-demo/tree/main/nginx",
+        "zip_url": "https://github.com/aravind1709/test-demo/blob/main/zip_archives/ansible/nginx.zip",
+        "readme_url": "https://raw.githubusercontent.com/aravind1709/test-demo/main/nginx/README.md",
+        "main_blueprint": "blueprint.yaml",
+        "image_url": "https://raw.githubusercontent.com/aravind1709/test-demo/main/nginx/logo.png",
+        "crated_at": "2023-03-16T00:26:08Z",
+        "updated_at": "2023-03-16T00:26:08Z"
+    },
+    {
+        "id": "ex4-nested-blueprint",
+        "name": "Service-Composition-Example",
+        "description": "Service Composition blueprint example - describes how to create relationship between independent services\nIn this case we run the same web server and application from ex3 as an independent deployment\nand were adding an SSH certificate generator to that service.\nThe example will also demonstrate how we can upload and instantiate all nested services on demand.\n",
+        "html_url": "https://github.com/cloudify-community/cloudify-catalog/tree/6.4.0-build/tabs/getting_started/service_composition",
+        "zip_url": "https://repository.cloudifysource.org/cloudify/blueprints/6.4/tabs/getting_started/ex4-nested-blueprint.zip",
+        "readme_url": "https://raw.githubusercontent.com/cloudify-community/cloudify-catalog/6.4.0-build/tabs/getting_started/service_composition/README.md",
+        "main_blueprint": "blueprint.yaml",
+        "image_url": "https://raw.githubusercontent.com/cloudify-community/cloudify-catalog/6.4.0-build/tabs/getting_started/service_composition/logo.png",
+        "crated_at": "2023-03-16T00:26:08Z",
+        "updated_at": "2023-03-16T00:26:08Z"
+    },
+
+]
