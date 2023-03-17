@@ -1,0 +1,22 @@
+s3_base_url: https://repository.cloudifysource.org
+s3_bucket_name: cloudify-release-eu
+s3_bucket_directory: cloudify/blueprints
+s3_getting_started_directory: cloudify/getting-started
+# git_url: https://github.com/cloudify-community/cloudify-catalog
+git_url: https://github.com/aravind1709/test-demo
+target_path: https://repository.cloudifysource.org/cloudify/blueprints
+#github_url: https://github.com/cloudify-community/cloudify-catalog/tree
+github_url: https://github.com/aravind1709/test-demo/tree
+#raw_github_url: https://raw.githubusercontent.com/cloudify-community/cloudify-catalog
+raw_github_url: https://raw.githubusercontent.com/aravind1709/test-demo
+
+
+topics:
+  - name: my_test_services
+    target_path: s3_json_file
+    blueprints:
+
+      - id: nginx_ansible
+        name: TEST-Ansible-Nginx-CFY
+        path: nginx
+        description: TEST Create Nginx service using Ansible plugin
