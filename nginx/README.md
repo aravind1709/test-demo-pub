@@ -5,7 +5,7 @@
 The blueprint creates Nginx service with the Ansible plugin in the AWS/Azure cloud provider environment.
 
 ## Sample Architecture
-![alt text](./logo.png)
+![alt text](https://github.com/aravind1709/test-demo/blob/main/nginx/logo.png)
 
 ## Requirements
 
