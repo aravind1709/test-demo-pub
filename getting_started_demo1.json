@@ -13,7 +13,7 @@
     },
     {
         "id": "demo-nginx-dc-21",
-        "name": "2nd examole Demo-Nginx-Example",
+        "name": "2nd-example-Demo-Nginx-Example",
         "description": "2nd examle This blueprint creates Nginx Demo SE\n",
         "html_url": "https://github.com/aravind1709/test-demo/tree/main/nginx",
         "zip_url": "https://github.com/aravind1709/test-demo/blob/main/zip_archives/ansible/nginx.zip?raw=true",
