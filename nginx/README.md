@@ -4,6 +4,9 @@
 
 The blueprint creates Nginx service with the Ansible plugin in the AWS/Azure cloud provider environment.
 
+## Sample Architecture
+![alt text](./logo.png)
+
 ## Requirements
 
 In order to run successfully the blueprint you'll need AWS access key id and aceess secret key. The credentials to the AWS/Azure should have permission to describe, update, delete and created Virtual Machine.
