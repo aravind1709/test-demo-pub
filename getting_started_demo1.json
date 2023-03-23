@@ -13,10 +13,10 @@
     },
     {
         "id": "demo-nginx-dc-21",
-        "name": "2nd-example-Demo-Nginx-Example",
-        "description": "2nd examle This blueprint creates Nginx Demo SE\n",
+        "name": "The-2nd-example-Demo-Nginx-Example",
+        "description": "The 2nd examle This blueprint creates Nginx Demo SE\n",
         "html_url": "https://github.com/aravind1709/test-demo/tree/main/nginx",
-        "zip_url": "https://github.com/aravind1709/test-demo-pub/blob/main/zip_archives/ansible/nginx.zip?raw=true",
+        "zip_url": "https://github.com/aravind1709/test-demo/blob/main/zip_archives/ansible/nginx.zip?raw=true",
         "readme_url": "https://raw.githubusercontent.com/aravind1709/test-demo-pub/main/nginx/README.md",
         "main_blueprint": "blueprint.yaml",
         "image_url": "https://raw.githubusercontent.com/aravind1709/test-demo-pub/main/nginx/logo.png",
